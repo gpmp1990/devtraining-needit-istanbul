@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_encryption_context">
+    <sys_encryption_context action="INSERT_OR_UPDATE">
+        <encryption_key>B79l4Vhz1t0E9REnuQQpkyNp7TsNJKm3dQZ/OEEEnHp7MaSa+EyjGA==</encryption_key>
+        <name>GPM - Attachment encription</name>
+        <sys_class_name>sys_encryption_context</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-09 07:02:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>03a11392dbf33200d3c55740cf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GPM - Attachment encription</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_encryption_context_03a11392dbf33200d3c55740cf9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-09 07:02:46</sys_updated_on>
+        <type>AES</type>
+    </sys_encryption_context>
+</record_update>
